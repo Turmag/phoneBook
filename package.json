@@ -1,0 +1,21 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.22.0",
+    "core-js": "^3.15.1",
+    "luxon": "^2.0.2",
+    "nuxt": "^2.15.7",
+    "vue2-datepicker": "^3.10.2",
+    "vuejs-datepicker": "^1.6.2",
+    "weekstart": "^1.1.0"
+  },
+  "devDependencies": {}
+}
